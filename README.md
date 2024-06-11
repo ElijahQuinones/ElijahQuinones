@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ElijahQuinones
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning Python and Java
+- I’m interested a software engineer @AWS
 - 📫 How to reach me elijah.quinones001@umb.edu
 
 <!---
