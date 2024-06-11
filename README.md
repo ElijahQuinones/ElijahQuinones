@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ElijahQuinones
-- I’m interested a software engineer @AWS
+- I’m a software engineer @AWS
 - 📫 How to reach me elijah.quinones001@umb.edu
 
 <!---
